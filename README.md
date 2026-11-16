@@ -90,7 +90,7 @@ Switched to the PDF tab and selected "My Locked PDF1 (for NW Tools Lab WK3-PM2).
 
 
 
-![Step 3 - Hash extracted from the PDF](nw3.png)
+
 
 **Step 3: Extract the hash**
 The tool confirmed the PDF is encrypted and generated a crackable hash in pdf2john / hashcat-compatible format ($pdf$...), along with the PDF's Revision, Version, and Key length details.
